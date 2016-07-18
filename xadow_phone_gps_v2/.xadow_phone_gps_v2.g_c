@@ -2,7 +2,7 @@
 <GenerationInfo_G_C>
   <Options>
     <ProjectName>xadow_phone_gps_v2</ProjectName>
-    <ProjectDirectory>D:\Freescale\WorkSpace\xadow_phone_gps_v2\</ProjectDirectory>
+    <ProjectDirectory>/Users/benoitclouet/Documents/RePhone/Xadow_GPS_v2/xadow_phone_gps_v2\</ProjectDirectory>
     <ProjectMainModuleName>main</ProjectMainModuleName>
     <DestEventsDirectory>Sources\</DestEventsDirectory>
     <DestDriversSubDirectory>..\Generated_Code\</DestDriversSubDirectory>

@@ -1,10 +1,10 @@
 Sources/gps.o: ../Sources/gps.c \
- D:/Freescale/workspace/xadow_phone_gps_v2/Generated_Code/board.h \
- D:/Freescale/workspace/xadow_phone_gps_v2/Generated_Code/pin_mux.h \
+ /Users/benoitclouet/Documents/RePhone/Xadow_GPS_v2/xadow_phone_gps_v2/Generated_Code/board.h \
+ /Users/benoitclouet/Documents/RePhone/Xadow_GPS_v2/xadow_phone_gps_v2/Generated_Code/pin_mux.h \
  ../Sources/gps.h
 
-D:/Freescale/workspace/xadow_phone_gps_v2/Generated_Code/board.h:
+/Users/benoitclouet/Documents/RePhone/Xadow_GPS_v2/xadow_phone_gps_v2/Generated_Code/board.h:
 
-D:/Freescale/workspace/xadow_phone_gps_v2/Generated_Code/pin_mux.h:
+/Users/benoitclouet/Documents/RePhone/Xadow_GPS_v2/xadow_phone_gps_v2/Generated_Code/pin_mux.h:
 
 ../Sources/gps.h:
